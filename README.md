@@ -1,7 +1,7 @@
 # sql-challenge
 SQL_Repo
 
-Created sql-challenge repo on git hub
+Created sql-challenge repo on git hub.
 
 Data Modeling:
 Inspected the CSV files and made a ERD sketch or image of the schemas tables. 
