@@ -12,5 +12,5 @@ Imported each CSV file into the corresponding SQL table, making sure the importe
 Data Analysis:
 Created tables in proper order or sequence to help capture data files capture and handle foreign keys. A data anlysis was performed strictly following the provided instuctions and successfully provided the solutions to the queries. Properly created a schema and queries sql files and properly committed to git hub.
 
-After receiving advice about creating .sql files of schema and queries tables, I posted schemas.sql and queries.sql tables which meet the requirements for submission. The employees.sql file combined both schema and queries sql files.
+
 
