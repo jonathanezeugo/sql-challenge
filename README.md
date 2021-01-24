@@ -16,7 +16,7 @@ BONUS
 The employees, titles and salary tables generated in PostgreSQL on PGAdmin were imported into a jupyter notebook and data merged to generated the following:
 1. A Histogram plot showing that the salary ranges with $40,000 to $45,000 were the most of all the salary ranges in the company. That range had over 120,000 employees in that salary bracket.
 2. A Bar chart of average salary by title of all employees showing that those with "Senior Staff" and "Staff" titles earned the most by average salary. 
-Ensured the plots were appropriately labelled.
+Ensured the plots were appropriately labelled for good visualization
 
 
 
