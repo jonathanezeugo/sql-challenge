@@ -21,4 +21,3 @@ The employees, titles and salary tables generated in PostgreSQL on PGAdmin were 
 
 
 
-
